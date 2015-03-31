@@ -859,7 +859,7 @@ body.nav-opened .menu-button .word {
     letter-spacing: -1px;
     font-weight: 700;
     font-family: "Open Sans", sans-serif;
-    color: #fff;
+    color: #000;
 }
 
 .page-description {
@@ -869,7 +869,7 @@ body.nav-opened .menu-button .word {
     font-weight: 400;
     font-family: "Merriweather", serif;
     letter-spacing: 0.01rem;
-    color: rgba(255,255,255,0.8);
+    color: rgba(0,0,0,0.8);
 }
 
 .no-cover.main-header {
@@ -1420,11 +1420,11 @@ body:not(.post-template) .post-title {
     font-family: "Open Sans", sans-serif;
     font-size: 1rem;
     line-height: 1.75em;
-    color: #BBC7CC;
+    color: #50585D;
 }
 
 .site-footer a {
-    color: #BBC7CC;
+    color: #50585D;
     text-decoration: none;
     font-weight: bold;
 }
